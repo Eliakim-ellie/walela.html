@@ -1,4 +1,3 @@
 # walela.html
 walela 
-mw portfolio for front end development
-hzbsnwznzb
+mw portfolio for front end developer 
